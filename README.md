@@ -1,6 +1,5 @@
 # Shadowrocket-rules
 
-# Shadowrocket Rules
 
 适用于 [Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118) 的代理分流规则配置，解决国内直连 + 海外代理的自动分流需求。
 
